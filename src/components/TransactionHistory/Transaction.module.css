@@ -1,0 +1,13 @@
+.item {
+  text-align: center;
+}
+
+.item>td {
+  border-bottom: 1px solid aqua;
+  padding: 6px;
+  font-size: 14px;
+}
+
+tr:nth-child(even){
+  background-color: #dedede;
+}

@@ -1,0 +1,13 @@
+.transactionHistory {
+    width: 600px;
+  }
+  
+  .transactionHistory > thead {
+    background-color: lightseagreen;
+  }
+  
+  .transactionHistory th {
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+  }
